@@ -1,6 +1,6 @@
 # 4th Workshop on Heterogeneous Memory Systems (HMEM 2023)
 
-### In conjunction with SC'23
+### In conjunction with [SC'23](https://sc23.supercomputing.org)
 
 
 ## Overview and scope
