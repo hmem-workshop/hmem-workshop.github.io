@@ -1,6 +1,6 @@
 # 4th Workshop on Heterogeneous Memory Systems (HMEM 2023)
 
-### In conjunction with [SC'23](https://sc23.supercomputing.org)
+### In conjunction with [SC'23](https://sc23.supercomputing.org), Denver, CO, USA, November 2023
 
 
 ## Overview and scope
@@ -21,6 +21,27 @@ As in previous years, the Workshop on Heterogeneous Memory Systems (HMEM) will b
 - Data structures for heterogeneous memory infrastructures
 - Abstractions and support for failure-atomicity in persistent memory
 - Use cases, early experiences and performance evaluations 
+
+## Submissions
+
+This is a traditional-style workshop without formal proceedings. The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website.
+
+Submissions consist of papers using the [ACM proceedings template](https://www.acm.org/publications/proceedings-template). 
+Submissions are limited to 8 pages, excluding the bibliography.  
+Extra pages can be included in a clearly marked appendix (to be read at the discretion of the reviewers).
+Submitted papers should include author names (single-blind review).
+
+We also welcome submissions of papers that have been recently accepted/published at top-tier conferences/journals, provided the submission is adapted according to the format above.
+
+The submission link will be available soon.
+
+
+## Important dates
+
+- Submission deadline: August 11th, 2023
+- Notification of acceptance: September 12th, 2023
+- Camera-ready deadline: October 13th, 2023
+- Workshop: November (TBD), 2023
 
 
 ## Organization committee
@@ -46,6 +67,4 @@ As in previous years, the Workshop on Heterogeneous Memory Systems (HMEM) will b
 - Xu Liu, PNNL, USA
 - Ying Huang, Intel, China
 
-## Submissions
 
-To be defined.
