@@ -1,6 +1,6 @@
 # 4th Workshop on Heterogeneous Memory Systems (HMEM 2023)
 
-### In conjunction with [SC'23](https://sc23.supercomputing.org), Denver, CO, USA, November 2023
+### In conjunction with [SC'23](https://sc23.supercomputing.org), Denver, CO, USA, November 17th, 2023
 
 
 ## Overview and scope
@@ -27,9 +27,9 @@ As in previous years, the Workshop on Heterogeneous Memory Systems (HMEM) will b
 This is a traditional-style workshop without formal proceedings. The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website.
 
 Submissions consist of papers using the [ACM proceedings template](https://www.acm.org/publications/proceedings-template). 
-Submissions are limited to 8 pages, excluding the bibliography.  
+Submissions are limited to 12 pages including references and figures.  
 Extra pages can be included in a clearly marked appendix (to be read at the discretion of the reviewers).
-Submitted papers should include author names (single-blind review).
+Submitted papers must not include author names (double-blind review).
 
 We also welcome submissions of papers that have been recently accepted/published at top-tier conferences/journals, provided the submission is adapted according to the format above.
 
@@ -39,9 +39,8 @@ The submission link will be available soon.
 ## Important dates
 
 - Submission deadline: August 11th, 2023
-- Notification of acceptance: September 12th, 2023
-- Camera-ready deadline: October 13th, 2023
-- Workshop: November (TBD), 2023
+- Notification of acceptance: September 8th, 2023
+- Workshop: November 17th, 2023
 
 
 ## Organization committee
@@ -61,7 +60,7 @@ The submission link will be available soon.
 - Maciej Maciejewski, Huawei, Poland
 - Marc Jordá, Barcelona Supercomputing Center, Spain
 - Michael Hennecke, Intel, Germany
-- Petar Radojkovia, Barcelona Supercomputing Center, Spain
+- Petar Radojkovic, Barcelona Supercomputing Center, Spain
 - Thaleia Doudali, IMDEA, Spain
 - Tim Dykes, HPE, UK
 - Xu Liu, PNNL, USA
