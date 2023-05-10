@@ -36,11 +36,17 @@ We also welcome submissions of papers that have been recently accepted/published
 The submission link will be available soon.
 
 
-## Important dates
+## Important dates 
 
+**Time Zone: AOE (Anywhere One Earth)**
+
+- Submission open: May 15th, 2023
 - Submission deadline: August 11th, 2023
-- Notification of acceptance: September 8th, 2023
+- Notification of acceptance: September 15th, 2023
+- Presentation Preparation open: September 18th, 2023
+- Presentation Preparation deadline: October 27th, 2023
 - Workshop: November 17th, 2023
+
 
 
 ## Organization committee
