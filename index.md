@@ -33,7 +33,7 @@ Submitted papers must not include author names (double-blind review).
 
 We also welcome submissions of papers that have been recently accepted/published at top-tier conferences/journals, provided the submission is adapted according to the format above.
 
-The submission link will be available soon.
+Submission link: https://submissions.supercomputing.org/
 
 
 ## Important dates 
