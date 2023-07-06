@@ -24,16 +24,22 @@ As in previous years, the Workshop on Heterogeneous Memory Systems (HMEM) will b
 
 ## Submissions
 
-This is a traditional-style workshop without formal proceedings. The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website.
+This is a traditional-style workshop without formal proceedings. 
+The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website. 
+A paper accepted to the HMEM workshop does not preclude its future publication at a major conference.
 
-Submissions consist of papers using the [ACM proceedings template](https://www.acm.org/publications/proceedings-template). 
-Submissions are limited to 12 pages including references and figures.  
+Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (for Latex users, version 1.90 (last update April 4, 2023) is the latest template, and please use the “sigconf” option). 
+
+We accept two types of submissions.
+
+A first type of submission includes position papers as well as papers that describe completed or early-stage work.
+Such submissions are limited to 12 pages including references and figures.  
 Extra pages can be included in a clearly marked appendix (to be read at the discretion of the reviewers).
 Submitted papers must not include author names (double-blind review).
 
-We also welcome submissions of papers that have been recently accepted/published at top-tier conferences/journals, provided the submission is adapted according to the format above.
+We also welcome 2-page abstracts that summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract.
 
-Submission link: Submit [here](https://submissions.supercomputing.org)
+Submission link: [Submit your paper here](https://submissions.supercomputing.org)
 
 
 ## Important dates 
@@ -50,7 +56,6 @@ Submission link: Submit [here](https://submissions.supercomputing.org)
 
 
 ## Organization committee
-- Hatem El-Shazly, Barcelona Supercomputing Center (BSC)
 - Harald Servat, Intel
 - João Barreto, INESC-ID, Universidade de Lisboa
 - Antonio J. Peña, Barcelona Supercomputing Center (BSC)
