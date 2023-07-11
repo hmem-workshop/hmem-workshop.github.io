@@ -39,20 +39,16 @@ Submitted papers must not include author names (double-blind review).
 
 We also welcome 2-page abstracts that summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract.
 
-Submission link: [Submit your paper here](https://submissions.supercomputing.org)
-
+Submit your paper here: [https://submissions.supercomputing.org](https://submissions.supercomputing.org)
 
 ## Important dates 
 
-**Time Zone: AOE (Anywhere One Earth)**
-
-- Submission open: May 15th, 2023
 - Submission deadline: August 11th, 2023
 - Notification of acceptance: September 15th, 2023
-- Presentation Preparation open: September 18th, 2023
 - Presentation Preparation deadline: October 27th, 2023
 - Workshop: November 17th, 2023
 
+Time Zone: AOE (Anywhere One Earth)
 
 
 ## Organization committee
