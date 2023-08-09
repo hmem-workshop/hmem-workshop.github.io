@@ -74,3 +74,9 @@ Time Zone: AOE (Anywhere One Earth)
 - Ying Huang, Intel, China
 
 
+### Acknowledgements
+
+This workshop has received funding from the European High Performance Computing Joint Undertaking (JU) under Framework Partnership Agreement No 800928 and Specific Grant Agreement No 955606 (DEEP-SEA). The JU receives support from the European Union’s Horizon 2020 research and innovation programme and from Croatia, France, Germany, Greece, Italy, Netherlands, Portugal, Spain, Sweden, and Switzerland. 
+
+
+![DEEP-SEA](https://hmem-workshop.github.io/DEEPSEA-logo.png)
