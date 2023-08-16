@@ -43,7 +43,7 @@ Submit your paper here: [https://submissions.supercomputing.org](https://submiss
 
 ## Important dates 
 
-- Submission deadline: August 11th, 2023
+- **Submission deadline (extended): August 26th, 2023**
 - Notification of acceptance: September 15th, 2023
 - Presentation Preparation deadline: October 27th, 2023
 - Workshop: November 17th, 2023
