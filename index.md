@@ -68,6 +68,7 @@ Time Zone: AOE (Anywhere One Earth)
 - Marc Jordá, Barcelona Supercomputing Center, Spain
 - Michael Hennecke, Intel, Germany
 - Petar Radojkovic, Barcelona Supercomputing Center, Spain
+- Sudharshan S. Vazhkudai, Micron, USA
 - Thaleia Doudali, IMDEA, Spain
 - Tim Dykes, HPE, UK
 - Xu Liu, PNNL, USA
