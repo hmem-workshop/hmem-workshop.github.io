@@ -22,9 +22,9 @@ As in previous years, the Workshop on Heterogeneous Memory Systems (HMEM) will b
 - Abstractions and support for failure-atomicity in persistent memory
 - Use cases, early experiences and performance evaluations 
 
-## Program (MST time zone)
+## Program
 
-November 17th, 2023
+November 17th, 2023  (MST time zone)
 
 
 | 8:30-8:40   |  Welcome |
