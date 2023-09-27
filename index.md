@@ -22,6 +22,28 @@ As in previous years, the Workshop on Heterogeneous Memory Systems (HMEM) will b
 - Abstractions and support for failure-atomicity in persistent memory
 - Use cases, early experiences and performance evaluations 
 
+## Program (MST time zone)
+
+November 17th, 2023
+
+8:30-8:40    Welcome
+
+8:40-9:30    Keynote by Dong Li (Microsoft Research)
+
+9:30-10:00   **Persistent snapshot isolation with unlimited reads on commodity hardware transactional memory**, Alexandro Baldassin (São Paulo State University (Unesp)), João Barreto, Daniel Castro, Miguel Figueiredo, Paolo Romano (INESC-ID, IST, Universidade de Lisboa)
+
+10:00-10:30    Break
+
+10:30-11:00    **DAOS beyond Persistent Memory: Architecture and Initial Performance Results**, Michael Hennecke, Jeff Olivier, Tom Nabarro, Liang Zhen, Yawei Niu, Shilong Wang, Xuezhao Liu (Intel Corporation)
+
+11:00-11:30    **CachedArrays: API and Framework to Optimize Data Movement for Heterogeneous Memory Systems**, Mark Hildebrand, Jason Lowe-Power, Venkatesh Akella (University of California, Davis)
+
+11:30-12:00    **Evaluating the latest Optane memory: A glorious swansong?**, Adrian Jackson (University of Edinburgh)
+
+12:00    Closing Remarks
+
+
+
 ## Submissions
 
 This is a traditional-style workshop without formal proceedings. 
