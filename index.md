@@ -29,7 +29,7 @@ November 17th, 2023  (MST time zone)
 
 8:30-8:40   Welcome 
 
-8:40-9:30   Keynote by Dong Li (Microsoft Research) 
+8:40-9:30   Keynote: **Empowering Large AI Models based on Heterogeneous Memory**, Dong Li (University of California, Merced) 
 
 9:30-10:00   **Persistent snapshot isolation with unlimited reads on commodity hardware transactional memory**, Alexandro Baldassin (São Paulo State University (Unesp)), João Barreto, Daniel Castro, Miguel Figueiredo, Paolo Romano (INESC-ID, IST, Universidade de Lisboa) 
 
