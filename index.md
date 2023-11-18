@@ -35,7 +35,7 @@ November 17th, 2023  (MST time zone)
 
  10:00-10:30     Break 
  
- 10:30-11:00    **DAOS beyond Persistent Memory: Architecture and Initial Performance Results**, Michael Hennecke, Jeff Olivier, Tom Nabarro, Liang Zhen, Yawei Niu, Shilong Wang, Xuezhao Liu (Intel Corporation) 
+ 10:30-11:00    **DAOS beyond Persistent Memory: Architecture and Initial Performance Results**, Michael Hennecke, Jeff Olivier, Tom Nabarro, Liang Zhen, Yawei Niu, Shilong Wang, Xuezhao Liu (Intel Corporation) [[slides]](hmem-sc23/slides-papers/hennecke-daos-hmem-workshop-sc23.pdf)
  
  11:00-11:30    **CachedArrays: API and Framework to Optimize Data Movement for Heterogeneous Memory Systems**, Mark Hildebrand, Jason Lowe-Power, Venkatesh Akella (University of California, Davis) [[slides]](hmem-sc23/slides-papers/lowe-power-cachedarrays-hmem-workshop-sc23.pdf)
  
