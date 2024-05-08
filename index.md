@@ -55,7 +55,7 @@ The authors of accepted submissions will give a talk at the workshop and partici
 The accepted submissions will be included in the IEEE Cluster 2024 proceedings.
 The authors of accepted submissions can also opt out of publication, and only give a talk.
 
-Submissions must use the template for the (IEEE Cluster 2024 proceedings)[https://clustercomp.org/2024/papers/].
+Submissions must use the template for the [IEEE Cluster 2024 proceedings](https://clustercomp.org/2024/papers/).
 Three kinds of submissions are possible:
 
 - Full papers: 8 pages (including references), must not include author names (double-blind review).
