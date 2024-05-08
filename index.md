@@ -53,7 +53,7 @@ September 24th, 2024
 The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. 
 
 The accepted submissions will be included in the IEEE Cluster 2024 proceedings.
-Authors not interested in having their accepted paper published in the proceedings can also opt out of that option.
+The authors of accepted submissions can also opt out of publication, and only give a talk.
 
 Submissions must use the template for the (IEEE Cluster 2024 proceedings)[https://clustercomp.org/2024/papers/].
 Three kinds of submissions are possible:
