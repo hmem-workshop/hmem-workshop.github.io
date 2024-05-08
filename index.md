@@ -1,76 +1,77 @@
-# 4th Workshop on Heterogeneous Memory Systems (HMEM 2023)
+# 5th Workshop on Heterogeneous Memory Systems (HMEM 2024)
 
-### In conjunction with [SC'23](https://sc23.supercomputing.org), Denver, CO, USA, November 17th, 2023
+### In conjunction with [IEEE CLUSTER 2024](https://clustercomp.org/2024/), Kobe, Japan, 24 September 2024
 
 
 ## Overview and scope
 
-The 4th HMEM workshop serves as a forum to present and discuss ongoing research around heterogeneous memory systems. The scope of the workshop encompasses all the layers of system and software stack, from computer architectures, operating system, middleware, programming models, runtime systems, tools, to applications.
+The 5th HMEM workshop serves as a forum to present and discuss ongoing research around heterogeneous memory systems. The scope of the workshop encompasses all the layers of system and software stack, from computer architectures, operating system, middleware, programming models, runtime systems, tools, to applications.
 
-Heterogeneous memory infrastructure design has become a dominating trend in today's HPC scene. Different memory technologies are emerging such as: NVM, HBM, Persistent memories, and CXL, that can help mitigate the memory bottleneck by offering opportunities for benefiting applications that process large amounts of data. Such opportunities can be realized across all the layers of system and software stack: from computer architectures, operating system, middleware, programming models, runtime systems, tools, up to applications.
+Heterogeneous memory infrastructure design is becoming an emerging trend in today's HPC scene.
+Different memory technologies are maturing, such as HBM, NVM/persistent memories, and also
+emerging, such as those based on CXL. These aim at helping mitigate the memory bottleneck by offering
+opportunities for benefiting applications that process large amounts of data, e.g., offering small but fast
+memory subsystems to place frequently accessed data structures. Such opportunities may be realized
+across all the layers of system and software stack: from computer architectures, operating system,
+middleware, programming models, runtime systems, tools, up to applications. 
 
-As in previous years, the Workshop on Heterogeneous Memory Systems (HMEM) will bring together different research efforts and expertise to the end of integrating different approaches and democratizing the use of heterogeneous memory systems to benefit applications not only in terms of performance, but also energy efficiency, and cost-tradeoffs. The main goal of the workshop is to push the research frontiers forward by exchanging knowledge and debating ideas through keynote speeches, technical paper presentations, and interactive discussions. Overall, topics of interest include, but are not limited to: 
+As in previous years, the
+Workshop on Heterogeneous Memory Systems (HMEM) will bring together different research efforts and
+expertise to the end of integrating different approaches and democratizing the use of heterogeneous
+memory systems to benefit applications not only in terms of performance, but also energy efficiency and
+cost tradeoffs. The main goal of the workshop is to push the research frontiers forward by exchanging
+knowledge and debating ideas through featured talks, technical paper presentations, and interactive
+discussions. Overall, topics of interest include, but are not limited to:
 
-- Data allocation and placement techniques in heterogeneous memories
-- Caching for heterogeneous memories
-- Programming Model and Tools for complex/heterogeneous memory hierarchies
+- Data allocation and placement techniques in heterogeneous memory systems
+- Caching for heterogeneous memory systems
+- Programming models and tools for complex/heterogeneous memory hierarchies
 - Software-defined far memories
 - Disaggregated memory and in-memory computing
-- Data movement in heterogeneous memory systems 
+- Data movement in heterogeneous memory systems
 - Memory consistency and persistency models
 - Data structures for heterogeneous memory infrastructures
 - Abstractions and support for failure-atomicity in persistent memory
-- Use cases, early experiences and performance evaluations 
+- Emerging memory architectures and system configurations
+- Use cases, early experiences and performance evaluations
+
+
+
 
 ## Program
 
-November 17th, 2023  (MST time zone)
+September 24th, 2024
 
+[to be defined]
 
-8:30-8:40   Welcome 
-
-8:40-9:30   Keynote: **Empowering Large AI Models based on Heterogeneous Memory**, Dong Li (University of California, Merced) 
-
-9:30-10:00   **Persistent snapshot isolation with unlimited reads on commodity hardware transactional memory**, Alexandro Baldassin (São Paulo State University (Unesp)), João Barreto, Daniel Castro, Miguel Figueiredo, Paolo Romano (INESC-ID, IST, Universidade de Lisboa) [[slides]](hmem-sc23/slides-papers/barreto-hmem-workshop-sc23.pdf)
-
- 10:00-10:30     Break 
- 
- 10:30-11:00    **DAOS beyond Persistent Memory: Architecture and Initial Performance Results**, Michael Hennecke, Jeff Olivier, Tom Nabarro, Liang Zhen, Yawei Niu, Shilong Wang, Xuezhao Liu (Intel Corporation) [[slides]](hmem-sc23/slides-papers/hennecke-daos-hmem-workshop-sc23.pdf)
- 
- 11:00-11:30    **CachedArrays: API and Framework to Optimize Data Movement for Heterogeneous Memory Systems**, Mark Hildebrand, Jason Lowe-Power, Venkatesh Akella (University of California, Davis) [[slides]](hmem-sc23/slides-papers/lowe-power-cachedarrays-hmem-workshop-sc23.pdf)
- 
- 11:30-12:00    **Evaluating the latest Optane memory: A glorious swansong?**, Adrian Jackson (University of Edinburgh) [[slides]](hmem-sc23/slides-papers/jackson-hmem-workshop-sc23.pdf) [[paper]](hmem-sc23/slides-papers/Evaluating_Lastest_Optane.pdf)
- 
- 12:00    Closing Remarks 
 
 
 
 
 ## Submissions
 
-This is a traditional-style workshop without formal proceedings. 
-The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website. 
-A paper accepted to the HMEM workshop does not preclude its future publication at a major conference.
+The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. 
 
-Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (for Latex users, version 1.90 (last update April 4, 2023) is the latest template, and please use the “sigconf” option). 
+The accepted submissions will be included in the IEEE Cluster 2024 proceedings.
+Authors not interested in having their accepted paper published in the proceedings can also opt out of that option.
 
-We accept two types of submissions.
+Submissions must use the template for the (IEEE Cluster 2024 proceedings)[https://clustercomp.org/2024/papers/].
+Three kinds of submissions are possible:
 
-A first type of submission includes position papers as well as papers that describe completed or early-stage work.
-Such submissions are limited to 12 pages including references and figures.  
-Extra pages can be included in a clearly marked appendix (to be read at the discretion of the reviewers).
-Submitted papers must not include author names (double-blind review).
+- Full papers: 8 pages (including references), must not include author names (double-blind review).
 
-We also welcome 2-page abstracts that summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract.
+- Short papers: 4 pages (including references), must not include author names (double-blind review).
 
-Submit your paper here: [https://submissions.supercomputing.org](https://submissions.supercomputing.org)
+- Abstracts of previous publications: 2 pages, which summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract. This kind of submission will not be published in the proceedings.
+
+Submit your paper here: [link to be added soon]
 
 ## Important dates 
 
-- **Submission deadline (extended): August 26th, 2023**
-- Notification of acceptance: September 15th, 2023
-- Presentation Preparation deadline: October 27th, 2023
-- Workshop: November 17th, 2023
+- **Submission deadline: June 26, 2024**
+- Notification of acceptance: July 24, 2024
+- Camera-ready deadline: August 9, 2024
+- Workshop: September 24, 2024
 
 Time Zone: AOE (Anywhere One Earth)
 
@@ -82,26 +83,15 @@ Time Zone: AOE (Anywhere One Earth)
 
 ## Program commitee
 
-- Adrian Jackson, EPCC, UK
-- Alexandro Baldassin, Universidade Estadual Paulista, Brasil
-- Andy Rudolf, Intel, USA
-- Gokcen Kestor, PNNL, USA
-- Gulay Yalcin, Abduallah Gul University, Turkey
-- Ivy Peng, LLNL, USA
-- Maciej Maciejewski, Huawei, Poland
-- Marc Jordá, Barcelona Supercomputing Center, Spain
-- Michael Hennecke, Intel, Germany
-- Petar Radojkovic, Barcelona Supercomputing Center, Spain
-- Sudharshan S. Vazhkudai, Micron, USA
-- Thaleia Doudali, IMDEA, Spain
-- Tim Dykes, HPE, UK
-- Xu Liu, PNNL, USA
-- Ying Huang, Intel, China
+[to be defined]
 
+## Previous editions
 
-### Acknowledgements
+- [HMEM 2023](https://hmem-workshop.github.io/hmem2023/), colocated with SC'23
 
-This workshop has received funding from the European High Performance Computing Joint Undertaking (JU) under Framework Partnership Agreement No 800928 and Specific Grant Agreement No 955606 (DEEP-SEA). The JU receives support from the European Union’s Horizon 2020 research and innovation programme and from Croatia, France, Germany, Greece, Italy, Netherlands, Portugal, Spain, Sweden, and Switzerland. 
+- [HMEM 2022](https://www.bsc.es/news/events/3rd-workshop-heterogeneous-memory-systems-hmem-2022), colocated with ICS'22
 
+- [HMEM 2021](https://research-and-innovation.ec.europa.eu/events/upcoming-events/2nd-workshop-heterogeneous-memory-systems-hmem-2021-2021-06-18-0_en), colocated with ICS'21
 
-![DEEP-SEA](https://hmem-workshop.github.io/DEEPSEA-logo.png)
+- [HMEM 2020](https://research-and-innovation.ec.europa.eu/events/upcoming-events/1st-workshop-heterogeneous-memory-systems-hmem-2020-06-29_en/), colocated with ICS'20
+
