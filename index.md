@@ -77,9 +77,9 @@ Time Zone: AOE (Anywhere One Earth)
 
 
 ## Organization committee
+- [Antonio J. Peña](https://www.bsc.es/pena-antonio), Barcelona Supercomputing Center (BSC)
 - [Harald Servat](http://www.linkedin.com/in/harald-servat-7b543395), Intel
 - [João Barreto](https://www.dpss.inesc-id.pt/~jpbarreto/), INESC-ID, Universidade de Lisboa
-- [Antonio J. Peña](https://www.bsc.es/pena-antonio), Barcelona Supercomputing Center (BSC)
 
 ## Program commitee
 
