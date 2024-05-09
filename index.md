@@ -81,9 +81,15 @@ Time Zone: AOE (Anywhere One Earth)
 - [Harald Servat](http://www.linkedin.com/in/harald-servat-7b543395), Intel
 - [João Barreto](https://www.dpss.inesc-id.pt/~jpbarreto/), INESC-ID, Universidade de Lisboa
 
-## Program commitee
+## Program committee
 
-[to be defined]
+- Adrian Jackson, EPCC, UK
+- Maciej Maciejewski, Huawei, Poland
+- Thaleia Doudali, IMDEA, Spain
+- Tim Dykes, HPE, UK
+- Ying Huang, Intel, China
+
+[to be completed]
 
 ## Previous editions
 
