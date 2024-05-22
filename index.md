@@ -84,7 +84,9 @@ Time Zone: AOE (Anywhere One Earth)
 ## Program committee
 
 - Adrian Jackson, EPCC, UK
+- Gulay Yalcin, Abduallah Gul University, Turkey
 - Maciej Maciejewski, Huawei, Poland
+- Petar Radojkovic, Barcelona Supercomputing Center, Spain
 - Thaleia Doudali, IMDEA, Spain
 - Tim Dykes, HPE, UK
 - Ying Huang, Intel, China
