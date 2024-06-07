@@ -64,7 +64,7 @@ Three kinds of submissions are possible:
 
 - Abstracts of previous publications: 2 pages, which summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract. This kind of submission will not be published in the proceedings.
 
-Submit your paper here: [link to be added soon]
+Submit your paper here: [submission link](https://easychair.org/conferences/?conf=hmem2024)
 
 ## Important dates 
 
