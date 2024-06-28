@@ -2,6 +2,7 @@
 
 ### In conjunction with [IEEE CLUSTER 2024](https://clustercomp.org/2024/), Kobe, Japan, 24 September 2024
 
+**Latest news:** _Deadline extended to July 10th, 2024_
 
 ## Overview and scope
 
@@ -82,7 +83,7 @@ policy. In this case, disclosure as noted above is recommended.
 
 ## Important dates 
 
-- **Submission deadline: June 26, 2024**
+- **Submission deadline: July 10th, 2024** ~~June 26, 2024~~
 - Notification of acceptance: July 24, 2024
 - Camera-ready deadline: August 9, 2024
 - Workshop: September 24, 2024
@@ -104,6 +105,9 @@ Time Zone: AOE (Anywhere One Earth)
 - Thaleia Doudali, IMDEA, Spain
 - Tim Dykes, HPE, UK
 - Ying Huang, Intel, China
+- Ivy Peng, LLNL, USA
+- Alexandro Baldassin, Universidade Estadual Paulista, Brasil
+- Marc Jorda, Barcelona Supercomputing Center, Spain
 
 [to be completed]
 
