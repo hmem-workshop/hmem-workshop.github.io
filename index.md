@@ -82,7 +82,7 @@ policy. In this case, disclosure as noted above is recommended.
 
 ## Important dates 
 
-- **Submission deadline: June 26, 2024**
+- **Submission deadline: July 10, 2024 (extended)**
 - Notification of acceptance: July 24, 2024
 - Camera-ready deadline: August 9, 2024
 - Workshop: September 24, 2024
@@ -98,8 +98,11 @@ Time Zone: AOE (Anywhere One Earth)
 ## Program committee
 
 - Adrian Jackson, EPCC, UK
+- Alexandro Baldassin, Universidade Estadual Paulista, Brasil
 - Gulay Yalcin, Abduallah Gul University, Turkey
+- Ivy Peng, LLNL, USA
 - Maciej Maciejewski, Huawei, Poland
+- Marc Jordá, Barcelona Supercomputing Center, Spain
 - Petar Radojkovic, Barcelona Supercomputing Center, Spain
 - Thaleia Doudali, IMDEA, Spain
 - Tim Dykes, HPE, UK
