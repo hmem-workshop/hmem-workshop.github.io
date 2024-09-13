@@ -54,7 +54,8 @@ September 24th, 2024
 
 16:45-17:15 **Understanding Aurora's Heterogeneous Memory Architecture**, Brice Videau, Argonne National Laboratory, USA
 
-17:15-17:45 (to be defined), Ivy Peng,  Lawrence Livermore National Laboratory, USA
+17:15-17:45 **Embracing Heterogeneous Memory Systems in HPC and Cloud: from Unified to Disaggregated
+**, Ivy Peng,  Lawrence Livermore National Laboratory, USA
 
 17:45-18:15 (to be defined), Clément Foyer, Université de Reims Champagne-Ardenne, France
 
