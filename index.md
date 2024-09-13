@@ -42,9 +42,21 @@ discussions. Overall, topics of interest include, but are not limited to:
 
 September 24th, 2024
 
-[to be defined]
+15:00 Welcome 
 
+15:00-15:30 **Understanding the Composability of Heterogeneous Memory for Workload-Optimized System Design**, Sudharshan Vazhkudai, Micron, USA
 
+15:30-16:00 **Enabling cooperation between object and page management for improved tiering on heterogeneous memory systems**, Maciej Maciejewski, Huawei, Poland
+
+16:00-16:30 **A couple use cases for heterogeneous memory systems from the Barcelona Supercomputing Center**, Antonio Peña, Barcelona Supercomputing Center, Spain
+
+16:30-16:45 Coffee break
+
+16:45-17:15 **Understanding Aurora's Heterogeneous Memory Architecture**, Brice Videau, Argonne National Laboratory, USA
+
+17:15-17:45 (to be defined), Ivy Peng,  Lawrence Livermore National Laboratory, USA
+
+17:45-18:15 (to be defined), Clément Foyer, Université de Reims Champagne-Ardenne, France
 
 
 
