@@ -44,19 +44,19 @@ September 24th, 2024
 
 15:00 Welcome 
 
-15:00-15:30 **H2M: Heuristics for Heterogeneous Memory**, Clément Foyer, Université de Reims Champagne-Ardenne, France
+15:00-15:30 **Embracing Heterogeneous Memory Systems in HPC and Cloud: from Unified to Disaggregated**, Ivy Peng,  KTH Royal Institute of Technology, Sweden
 
-15:30-16:00 **Enabling cooperation between object and page management for improved tiering on heterogeneous memory systems**, Maciej Maciejewski, Huawei, Poland
+15:30-16:00 **Understanding the Composability of Heterogeneous Memory for Workload-Optimized System Design**, Sudharshan Vazhkudai, Micron, USA
 
-16:00-16:30 **A couple use cases for heterogeneous memory systems from the Barcelona Supercomputing Center**, Antonio Peña, Barcelona Supercomputing Center, Spain
+16:00-16:30 **Understanding Aurora's Heterogeneous Memory Architecture**, Brice Videau, Argonne National Laboratory, USA
 
 16:30-16:45 Coffee break
 
-16:45-17:15 **Understanding Aurora's Heterogeneous Memory Architecture**, Brice Videau, Argonne National Laboratory, USA
+16:45-17:15 **Enabling cooperation between object and page management for improved tiering on heterogeneous memory systems**, Maciej Maciejewski, Huawei, Poland
 
-17:15-17:45 **Embracing Heterogeneous Memory Systems in HPC and Cloud: from Unified to Disaggregated**, Ivy Peng,  KTH Royal Institute of Technology, Sweden
+17:15-17:45 **A couple use cases for heterogeneous memory systems from the Barcelona Supercomputing Center**, Antonio Peña, Barcelona Supercomputing Center, Spain
 
-17:45-18:15 **Understanding the Composability of Heterogeneous Memory for Workload-Optimized System Design**, Sudharshan Vazhkudai, Micron, USA
+17:45-18:15 **H2M: Heuristics for Heterogeneous Memory**, Clément Foyer, Université de Reims Champagne-Ardenne, France
 
 
 
