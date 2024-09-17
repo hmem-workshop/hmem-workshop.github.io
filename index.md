@@ -44,11 +44,11 @@ September 24th, 2024
 
 15:00 Welcome 
 
-15:00-15:30 **Embracing Heterogeneous Memory Systems in HPC and Cloud: from Unified to Disaggregated**, Ivy Peng,  KTH Royal Institute of Technology, Sweden
+15:00-15:30 **Understanding Aurora's Heterogeneous Memory Architecture**, Brice Videau, Argonne National Laboratory, USA
 
 15:30-16:00 **Understanding the Composability of Heterogeneous Memory for Workload-Optimized System Design**, Sudharshan Vazhkudai, Micron, USA
 
-16:00-16:30 **Understanding Aurora's Heterogeneous Memory Architecture**, Brice Videau, Argonne National Laboratory, USA
+16:00-16:30 **Embracing Heterogeneous Memory Systems in HPC and Cloud: from Unified to Disaggregated**, Ivy Peng,  KTH Royal Institute of Technology, Sweden
 
 16:30-16:45 Coffee break
 
