@@ -1,128 +1,77 @@
-# 5th Workshop on Heterogeneous Memory Systems (HMEM 2024)
+# Sixth Workshop on Heterogeneity and Memory Systems (HMEM 2025)
 
-### In conjunction with [IEEE CLUSTER 2024](https://clustercomp.org/2024/), Kobe, Japan, 24 September 2024
+### In conjunction with [SC'25](https://sc25.supercomputing.org/), St. louis, MO, Nov 16–21
 
 
 ## Overview and scope
 
-The 5th HMEM workshop serves as a forum to present and discuss ongoing research around heterogeneous memory systems. The scope of the workshop encompasses all the layers of system and software stack, from computer architectures, operating system, middleware, programming models, runtime systems, tools, to applications.
+Heterogeneity is ubiquitous, not only in terms of processing units but also memories and networks. As heterogeneity increases, memory subsystems play an even more important role to attain performance, from their technology to the system architecture to the software management and programming model. While CPU-only compute nodes are becoming rare instances, heterogeneous memory architectures have recently emerged and revolutionized the traditional memory hierarchy. Today’s and upcoming architectures may well comprise multiple memory technologies next to DRAM, accelerators with dedicated memories, or even specific expansion cards hosting memory alone, such as: 3D-stacked memory, high-bandwidth multi-channel RAM, unified/shared memory on accelerators, Compute Express Link (CXL)-based architectures, persistent memory, or MRDIMMs.
 
-Heterogeneous memory infrastructure design is becoming an emerging trend in today's HPC scene.
-Different memory technologies are maturing, such as HBM, NVM/persistent memories, and also
-emerging, such as those based on CXL. These aim at helping mitigate the memory bottleneck by offering
-opportunities for benefiting applications that process large amounts of data, e.g., offering small but fast
-memory subsystems to place frequently accessed data structures. Such opportunities may be realized
-across all the layers of system and software stack: from computer architectures, operating system,
-middleware, programming models, runtime systems, tools, up to applications. 
+As in previous years, the Workshop on Heterogeneous Memory Systems, now rebranded as Heterogeneity and Memory Systems (HMEM), will bring together different research efforts and expertise to the end of integrating different approaches and democratizing the use of resource heterogeneity from a memory perspective, to benefit applications not only in terms of performance, but also energy efficiency and cost trade-offs. The main goal of the workshop is to push the research frontiers forward by exchanging knowledge and debating ideas through featured talks, technical paper presentations, and interactive discussions. Overall, topics of interest include, but are not limited to:
 
-As in previous years, the
-Workshop on Heterogeneous Memory Systems (HMEM) will bring together different research efforts and
-expertise to the end of integrating different approaches and democratizing the use of heterogeneous
-memory systems to benefit applications not only in terms of performance, but also energy efficiency and
-cost tradeoffs. The main goal of the workshop is to push the research frontiers forward by exchanging
-knowledge and debating ideas through featured talks, technical paper presentations, and interactive
-discussions. Overall, topics of interest include, but are not limited to:
-
-- Data allocation and placement techniques in heterogeneous memory systems
-- Caching for heterogeneous memory systems
-- Programming models and tools for complex/heterogeneous memory hierarchies
+- Resource heterogeneity (e.g., accelerators) and memory implications, including memory designs, data layouts, etc. 
+- Data allocation and placement techniques in heterogeneous memory systems 
+- Caching for heterogeneous memory systems 
+- Programming models and tools for complex/heterogeneous memory hierarchies 
 - Software-defined far memories
-- Disaggregated memory and in-memory computing
-- Data movement in heterogeneous memory systems
-- Memory consistency and persistency models
-- Data structures for heterogeneous memory infrastructures
-- Abstractions and support for failure-atomicity in persistent memory
-- Emerging memory architectures and system configurations
+- Disaggregated memory and in-memory computing 
+- Data movement in heterogeneous memory systems 
+- Memory consistency and persistency models 
+- Data structures for heterogeneous memory infrastructures 
+- Abstractions and support for failure-atomicity in persistent memory 
+- Emerging memory architectures and system configurations 
+-	AI on heterogeneous memory systems and use of AI for heterogeneous memory systems
 - Use cases, early experiences and performance evaluations
 
 
+## Program 
 
-
-## Program
-
-September 24th, 2024
-
-15:00 Welcome 
-
-15:00-15:30 **Understanding Aurora's Heterogeneous Memory Architecture**, Brice Videau, Argonne National Laboratory, USA
-
-15:30-16:00 **Understanding the Composability of Heterogeneous Memory for Workload-Optimized System Design**, Sudharshan Vazhkudai, Micron, USA
-
-16:00-16:30 **Embracing Heterogeneous Memory Systems in HPC and Cloud: from Unified to Disaggregated**, Ivy Peng,  KTH Royal Institute of Technology, Sweden
-
-16:30-16:45 Coffee break
-
-16:45-17:15 **Enabling cooperation between object and page management for improved tiering on heterogeneous memory systems**, Maciej Maciejewski, Huawei, Poland
-
-17:15-17:45 **A couple use cases for heterogeneous memory systems from the Barcelona Supercomputing Center**, Antonio Peña, Barcelona Supercomputing Center, Spain
-
-17:45-18:15 **H2M: Heuristics for Heterogeneous Memory**, Clément Foyer, Université de Reims Champagne-Ardenne, France
+*to be defined*
 
 
 
 ## Submissions
 
-The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. 
+This is a traditional-style workshop without formal proceedings. 
+The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website. 
+A paper accepted to the HMEM workshop does not preclude its future publication at a major conference.
 
-The accepted submissions will be included in the IEEE Cluster 2024 proceedings.
-The authors of accepted submissions can also opt out of publication, and only give a talk.
+Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (for Latex users, version 1.90 (last update April 4, 2023) is the latest template, and please use the “sigconf” option). 
 
-Submissions must use the template for the [IEEE Cluster 2024 proceedings](https://clustercomp.org/2024/papers/).
-Three kinds of submissions are possible:
+We accept two types of submissions.
 
-- Full papers: 8 pages + 2 additional pages (including references), must not include author names (double-blind review).
+A first type of submission includes position papers as well as papers that describe completed or early-stage work.
+Such submissions are limited to 12 pages including references and figures.  
+Extra pages can be included in a clearly marked appendix (to be read at the discretion of the reviewers).
+Submitted papers must not include author names (double-blind review).
 
-- Short papers: 4 pages + 2 additional pages (including references), must not include author names (double-blind review).
+We also welcome 2-page abstracts that summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract.
 
-- Abstracts of previous publications: 2 pages, which summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract. This kind of submission will not be published in the proceedings.
-
-Submit your paper here: [submission link](https://easychair.org/conferences/?conf=hmem2024)
-
-### Guidelines for Artificial Intelligence (AI)-Generated Text
-
-The use of content generated by artificial intelligence (AI) in a
-paper (including but not limited to text, figures, images, and code)
-shall be disclosed in the acknowledgments section of any paper
-submitted to an IEEE publication. The AI system used shall be
-identified, and specific sections of the paper that use AI-generated
-content shall be identified and accompanied by a brief explanation
-regarding the level at which the AI system was used to generate the
-content.
-The use of AI systems for editing and grammar enhancement is common
-practice and, as such, is generally outside the intent of the above
-policy. In this case, disclosure as noted above is recommended. 
+Submit your paper here: [https://submissions.supercomputing.org](https://submissions.supercomputing.org)
 
 ## Important dates 
 
-- **Submission deadline: July 10, 2024 (extended)**
-- Notification of acceptance: July 24, 2024
-- Camera-ready deadline: August 9, 2024
-- Workshop: September 24, 2024
+- **Submission deadline: *To be defined***
+- Notification of acceptance: *To be defined*
+- Presentation Preparation deadline: *To be defined*
+- Workshop: November 17th, *To be defined*
 
 Time Zone: AOE (Anywhere One Earth)
 
 
 ## Organization committee
-- [Antonio J. Peña](https://www.bsc.es/pena-antonio), Barcelona Supercomputing Center (BSC)
 - [Harald Servat](http://www.linkedin.com/in/harald-servat-7b543395), Intel
 - [João Barreto](https://www.dpss.inesc-id.pt/~jpbarreto/), INESC-ID, Universidade de Lisboa
+- [Antonio J. Peña](https://www.bsc.es/pena-antonio), Barcelona Supercomputing Center (BSC)
 
-## Program committee
+## Program commitee
 
-- Adrian Jackson, EPCC, UK
-- Alexandro Baldassin, Universidade Estadual Paulista, Brasil
-- Gulay Yalcin, Abduallah Gul University, Turkey
-- Ivy Peng, LLNL, USA
-- Maciej Maciejewski, Huawei, Poland
-- Marc Jordá, Barcelona Supercomputing Center, Spain
-- Petar Radojkovic, Barcelona Supercomputing Center, Spain
-- Thaleia Doudali, IMDEA, Spain
-- Tim Dykes, HPE, UK
-- Ying Huang, Intel, China
+*to be defined*
 
-[to be completed]
 
 ## Previous editions
+
+- [HMEM 2024](https://hmem-workshop.github.io/hmem2024/), colocated with CLUSTER'24
 
 - [HMEM 2023](https://hmem-workshop.github.io/hmem2023/), colocated with SC'23
 
