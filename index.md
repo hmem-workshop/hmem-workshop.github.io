@@ -32,24 +32,31 @@ As in previous years, the Workshop on Heterogeneous Memory Systems, now rebrande
 
 ## Submissions
 
-The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. 
+This is a traditional-style workshop without formal proceedings. 
+The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website. 
+A paper accepted to the HMEM workshop does not preclude its future publication at a major conference.
 
-Three kinds of submissions are possible:
+Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (for Latex users, version 1.90 (last update April 4, 2023) is the latest template, and please use the “sigconf” option). 
 
-- Full papers: 8 pages + 2 additional pages (including references), must not include author names (double-blind review).
+We accept two types of submissions.
 
-- Short papers: 4 pages + 2 additional pages (including references), must not include author names (double-blind review).
+A first type of submission includes position papers as well as papers that describe completed or early-stage work.
+Such submissions are limited to 12 pages including references and figures.  
+Extra pages can be included in a clearly marked appendix (to be read at the discretion of the reviewers).
+Submitted papers must not include author names (double-blind review).
 
-- Abstracts of previous publications: 2 pages, which summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract. This kind of submission will not be published in the proceedings.
+We also welcome 2-page abstracts that summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract.
+
+Submit your paper here: [https://submissions.supercomputing.org](https://submissions.supercomputing.org)
+
 
 Submit your paper here: [https://submissions.supercomputing.org](https://submissions.supercomputing.org)
 
 ## Important dates 
 
-- **Submission deadline: *To be defined***
-- Notification of acceptance: *To be defined*
-- Presentation Preparation deadline: *To be defined*
-- Workshop: November 17th, *To be defined*
+- Submission deadline: August 26th, 2025
+- Notification of acceptance: September 15th, 2025
+- Workshop: *To be defined*
 
 Time Zone: AOE (Anywhere One Earth)
 
