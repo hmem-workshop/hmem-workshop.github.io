@@ -50,8 +50,6 @@ We also welcome 2-page abstracts that summarize recently accepted/published at t
 Submit your paper here: [https://submissions.supercomputing.org](https://submissions.supercomputing.org)
 
 
-Submit your paper here: [https://submissions.supercomputing.org](https://submissions.supercomputing.org)
-
 ## Important dates 
 
 - Submission deadline: August 26th, 2025
