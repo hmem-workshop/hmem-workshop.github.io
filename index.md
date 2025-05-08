@@ -1,6 +1,6 @@
 # Sixth Workshop on Heterogeneity and Memory Systems (HMEM 2025)
 
-### In conjunction with [SC'25](https://sc25.supercomputing.org/), St. louis, MO, Nov 16–21
+### In conjunction with [SC'25](https://sc25.supercomputing.org/), St. Louis, MO, November 17th, 2025
 
 
 ## Overview and scope
@@ -54,7 +54,7 @@ Submit your paper here: [https://submissions.supercomputing.org](https://submiss
 
 - Submission deadline: August 26th, 2025
 - Notification of acceptance: September 15th, 2025
-- Workshop: *To be defined*
+- Workshop: November 17th, 2025
 
 Time Zone: AOE (Anywhere One Earth)
 
