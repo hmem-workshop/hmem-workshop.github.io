@@ -64,9 +64,21 @@ Time Zone: AOE (Anywhere One Earth)
 - [João Barreto](https://www.dpss.inesc-id.pt/~jpbarreto/), INESC-ID, Universidade de Lisboa
 - [Antonio J. Peña](https://www.bsc.es/pena-antonio), Barcelona Supercomputing Center (BSC)
 
-## Program commitee
+## Program committee
 
-*to be defined*
+- Adrian Jackson, EPCC, UK
+- Alexandro Baldassin, Universidade Estadual Paulista, Brasil
+- Gokcen Kestor, PNNL, USA
+- Dong Li, University of California, Merced, USA
+- Gulay Yalcin, Abduallah Gul University, Turkey
+- Ivy Peng, LLNL, USA
+- Maciej Maciejewski, Huawei, Poland
+- Marc Jordá, Barcelona Supercomputing Center, Spain
+- Manolis Marazakis, Foundation for Research and Technology – Hellas (FORTH), GR
+- Swann Perarnau, Argonne National Laboratory (ANL), University of Chicago, USA
+- Petar Radojkovic, Barcelona Supercomputing Center, Spain
+- Tim Dykes, HPE, UK
+
 
 
 ## Previous editions
