@@ -75,6 +75,7 @@ Time Zone: AOE (Anywhere One Earth)
 - Maciej Maciejewski, Huawei, Poland
 - Marc Jordá, Barcelona Supercomputing Center, Spain
 - Manolis Marazakis, Foundation for Research and Technology – Hellas (FORTH), GR
+- Michael Hennecke,  Hewlett Packard Enterprise, Germany
 - Swann Perarnau, Argonne National Laboratory (ANL), University of Chicago, USA
 - Petar Radojkovic, Barcelona Supercomputing Center, Spain
 - Tim Dykes, HPE, UK
