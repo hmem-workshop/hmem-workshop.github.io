@@ -26,7 +26,7 @@ As in previous years, the Workshop on Heterogeneous Memory Systems, now rebrande
 
 ## Program 
 
-### Keynote: Torsten Hoefler (ETH Zurich). 
+### Featured Speaker: Torsten Hoefler (ETH Zurich). 
 ### ARMing GPUs: On the Memory Subsystem of Grace Hopper GH200
 
 Abstract: Heterogeneous supercomputers have become the standard in HPC. GPUs in particular have dominated the accelerator landscape, offering unprecedented performance in parallel workloads and unlocking new possibilities in fields like AI and climate modeling. With many workloads becoming memory-bound, improving the communication latency and bandwidth within the system has become a main driver in the development of new architectures. The Grace Hopper Superchip (GH200) is a significant step in the direction of tightly coupled heterogeneous systems, in which all CPUs and GPUs share a unified address space and support transparent fine grained access to all main memory on the system. We characterize both intra- and inter-node memory operations on the Quad GH200 nodes of the new Swiss National Supercomputing Centre Alps supercomputer, and show the importance of careful memory placement on example workloads, highlighting tradeoffs and opportunities. 
