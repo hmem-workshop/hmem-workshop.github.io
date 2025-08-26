@@ -61,9 +61,9 @@ Submit your paper here: [https://submissions.supercomputing.org](https://submiss
 
 ## Important dates 
 
-- Submission deadline: August 26th, 2025
-- Notification of acceptance: September 15th, 2025
-- Workshop: November 17th, 2025
+- Submission deadline: **September 1, 2025 (extended)**
+- Notification of acceptance: September 15, 2025
+- Workshop: November 17, 2025
 
 Time Zone: AOE (Anywhere One Earth)
 
