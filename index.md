@@ -30,7 +30,9 @@ As in previous years, the Workshop on Heterogeneous Memory Systems, now rebrande
 
 ### 14:00 Welcome 
 
-### 14:00-15:00 Featured talk: **ARMing GPUs: On the Memory Subsystem of Grace Hopper GH200**, Torsten Hoefler, ETH Zurich, Switzerland
+### 14:00-15:00 ARMing GPUs: On the Memory Subsystem of Grace Hopper GH200
+
+**Featured speaker: Torsten Hoefler,** ETH Zurich, Switzerland
 
 
 
