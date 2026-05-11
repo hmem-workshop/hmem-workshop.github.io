@@ -1,4 +1,4 @@
-# Sixth Workshop on Heterogeneity and Memory Systems (HMEM 2026)
+# 7th Workshop on Heterogeneity and Memory Systems (HMEM 2026)
 
 ### In conjunction with [SC'26](https://sc26.supercomputing.org/), Chicago, IL, November 15-20, 2026
 
