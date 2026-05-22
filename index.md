@@ -1,6 +1,6 @@
 # 7th Workshop on Heterogeneity and Memory Systems (HMEM 2026)
 
-### In conjunction with [SC'26](https://sc26.supercomputing.org/), Chicago, IL, November 15-20, 2026
+### In conjunction with [SC'26](https://sc26.supercomputing.org/), Chicago, IL, November 16th, 2026
 
 
 ## Overview and scope
@@ -25,6 +25,8 @@ As in previous years, the Workshop on Heterogeneous Memory Systems, now rebrande
 
 
 ## Program 
+
+# November 17th, 2025
 
 *To be defined*
 
@@ -66,7 +68,17 @@ Time Zone: AOE (Anywhere One Earth)
 
 ## Program committee
 
-*to be defined*
+- Chloe Alverti, National Technical University of Athens, Greece
+- Alexandro Baldassin, UNESP, Brazil
+- Tim Dykes, Hewlett Packard Enterprise (HPE), UK
+- Clément Foyer, Université de Reims Champagne-Ardenne, France
+- Marc Jorda, Barcelona Supercomputing Center (BSC), Spain
+- Manolis Marazakis, Foundation for Research and Technology – Hellas (FORTH), Greece
+- Petar Radojkovic, Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain
+- Sudharshan S. Vazhkudai, Micron Technology Inc, USA
+- Brice Videau, Argonne National Laboratory, USA
+- Gulay Yalçin, Abduallah Gul University, Turkey
+
 
 
 
