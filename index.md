@@ -68,16 +68,17 @@ Time Zone: AOE (Anywhere One Earth)
 
 ## Program committee
 
-- Chloe Alverti, National Technical University of Athens, Greece
 - Alexandro Baldassin, UNESP, Brazil
-- Tim Dykes, Hewlett Packard Enterprise (HPE), UK
+- Brice Videau, Argonne National Laboratory, USA
+- Chloe Alverti, National Technical University of Athens, Greece
 - Clément Foyer, Université de Reims Champagne-Ardenne, France
-- Marc Jorda, Barcelona Supercomputing Center (BSC), Spain
+- Gulay Yalçin, Ankara Yildirim Beyazit University, Turkey
+- Maciej Maciejewski, Huwaei, Poland
 - Manolis Marazakis, Foundation for Research and Technology – Hellas (FORTH), Greece
+- Marc Jorda, Barcelona Supercomputing Center (BSC), Spain
 - Petar Radojkovic, Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain
 - Sudharshan S. Vazhkudai, Micron Technology Inc, USA
-- Brice Videau, Argonne National Laboratory, USA
-- Gulay Yalçin, Abduallah Gul University, Turkey
+- Tim Dykes, Hewlett Packard Enterprise (HPE), UK
 
 
 
