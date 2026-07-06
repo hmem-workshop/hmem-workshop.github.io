@@ -38,7 +38,6 @@ This is a traditional-style workshop without formal proceedings.
 The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website. 
 A paper accepted to the HMEM workshop does not preclude its future publication at a major conference.
 
-Submissions must use the [IEEE proceedings template](https://www.ieee.org/conferences/publishing/templates), two-column page format (U.S. letter – 8.5″ x 11″).
 
 We accept two types of submissions.
 
