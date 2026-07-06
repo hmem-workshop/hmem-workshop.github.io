@@ -38,13 +38,11 @@ This is a traditional-style workshop without formal proceedings.
 The authors of accepted submissions will give a talk at the workshop and participate in the closing discussion panel. Additionally, authors will be invited to (optionally) upload their submitted paper (PDF) to be shared on the workshop website. 
 A paper accepted to the HMEM workshop does not preclude its future publication at a major conference.
 
-Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (for Latex users, Version 2.16 is the latest template, and please use the “sigconf” option). 
+Submissions must use the IEEE proceedings template (https://www.ieee.org/conferences/publishing/templates), two-column page format (U.S. letter – 8.5″ x 11″).
 
 We accept two types of submissions.
 
-A first type of submission includes position papers as well as papers that describe completed or early-stage work.
-Such submissions are limited to 12 pages including references and figures.  
-Extra pages can be included in a clearly marked appendix (to be read at the discretion of the reviewers).
+A first type of submission includes position papers as well as papers that describe completed or early-stage work. Such submissions are limited to 10 pages including references and figures, but excluding bibliography.
 Submitted papers must not include author names (double-blind review).
 
 We also welcome 2-page abstracts that summarize recently accepted/published at top-tier conferences/journals. In this case, the author names and references to the published works should be included in the abstract.
@@ -68,17 +66,21 @@ Time Zone: AOE (Anywhere One Earth)
 
 ## Program committee
 
+- Adrian Jackson, University of Edinburgh, Scotland
 - Alexandro Baldassin, UNESP, Brazil
 - Brice Videau, Argonne National Laboratory, USA
 - Chloe Alverti, National Technical University of Athens, Greece
 - Clément Foyer, Université de Reims Champagne-Ardenne, France
+- Dong Li, University of California, Merced
 - Gulay Yalçin, Ankara Yildirim Beyazit University, Turkey
 - Maciej Maciejewski, Huwaei, Poland
 - Manolis Marazakis, Foundation for Research and Technology – Hellas (FORTH), Greece
 - Marc Jorda, Barcelona Supercomputing Center (BSC), Spain
 - Petar Radojkovic, Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain
 - Sudharshan S. Vazhkudai, Micron Technology Inc, USA
+- Swann Perarnau, Argonne National Laboratory (ANL), University of Chicago
 - Tim Dykes, Hewlett Packard Enterprise (HPE), UK
+
 
 
 
