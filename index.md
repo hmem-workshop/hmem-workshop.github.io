@@ -52,9 +52,9 @@ Submit your paper here: [https://submissions.supercomputing.org](https://submiss
 
 ## Important dates 
 
-- Submission deadline: **August 17, 2026**
+- Submission deadline: **August 31, 2025 (extended)**
 - Notification of acceptance: September 15, 2026
-- Workshop: *to be defined*
+- Workshop: November 16th, 2026
 
 Time Zone: AOE (Anywhere One Earth)
 
