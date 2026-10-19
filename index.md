@@ -82,9 +82,9 @@ Submit your paper here: [https://submissions.supercomputing.org](https://submiss
 
 ## Important dates 
 
-- Submission deadline: **August 17, 2026**
+- Submission deadline: **August 31, 2026 (extended)**
 - Notification of acceptance: September 15, 2026
-- Workshop: *to be defined*
+- Workshop: November 16th, 2026
 
 Time Zone: AOE (Anywhere One Earth)
 
@@ -96,19 +96,19 @@ Time Zone: AOE (Anywhere One Earth)
 
 ## Program committee
 
-- Adrian Jackson, University of Edinburgh, Scotland
+- Adrian Jackson, University of Edinburgh, UK
 - Alexandro Baldassin, UNESP, Brazil
 - Brice Videau, Argonne National Laboratory, USA
 - Chloe Alverti, National Technical University of Athens, Greece
 - Clément Foyer, Université de Reims Champagne-Ardenne, France
-- Dong Li, University of California, Merced
+- Dong Li, University of California, Merced, USA
 - Gulay Yalçin, Ankara Yildirim Beyazit University, Turkey
 - Maciej Maciejewski, Huwaei, Poland
 - Manolis Marazakis, Foundation for Research and Technology – Hellas (FORTH), Greece
 - Marc Jorda, Barcelona Supercomputing Center (BSC), Spain
 - Petar Radojkovic, Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain
 - Sudharshan S. Vazhkudai, Micron Technology Inc, USA
-- Swann Perarnau, Argonne National Laboratory (ANL), University of Chicago
+- Swann Perarnau, Argonne National Laboratory (ANL), University of Chicago, USA
 - Tim Dykes, Hewlett Packard Enterprise (HPE), UK
 
 
