@@ -39,7 +39,7 @@ Growing application memory demands are motivating heterogeneous memory systems t
 
 ### 15:00-15:30 Coffee break
 
-### 15:30-17:00 Accepted papers
+### 15:30-17:30 Accepted papers
 
 **Optimizing system memory bandwidth with micron CXL memory expansion modules on intel Xeon 6 processors**, 
 Anil Godbole [\*], Rohit Sehgal, Vinicius Petrucci and Vishal Tanna, Intel Corporation [\*] and Micron, USA
