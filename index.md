@@ -37,6 +37,9 @@ As in previous years, the Workshop on Heterogeneous Memory Systems, now rebrande
 *Abstract: 
 Growing application memory demands are motivating heterogeneous memory systems that combine local DRAM with CXL-attached capacity. Their performance depends on identifying which data should occupy the faster tier and adapting placement as access patterns change. M5 and ARC are two complementary approaches to hardware–software co-design for CXL memory management. M5 uses device-side page and subpage tracking to guide migration, while ARC adapts the counting organization to workload behavior using shared hardware storage. Through measurements on real CXL prototypes, we examine how the location, granularity, and organization of hotness tracking influence migration decisions and application performance, highlighting trade-offs and opportunities for coordinating memory monitoring and placement.* 
 
+*Bio:
+Yan Sun is a Ph.D. candidate in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by Professor Nam Sung Kim. Yan’s research focuses on hardware–software co-design for memory and datacenter systems, particularly CXL-based memory architectures and management. His work spans memory characterization, tiering, and near-memory processing, with publications at MICRO, ASPLOS, OSDI, SOSP, and USENIX ATC.*
+
 ### 15:00-15:30 Coffee break
 
 ### 15:30-17:30 Accepted papers
